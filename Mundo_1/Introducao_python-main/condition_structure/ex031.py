@@ -5,4 +5,4 @@ if distancia <= 200:
 else:
     passagem = distancia * 0.45
 
-print(f'\n Para sua viagem de {distancia}kms\n Sua passagem custa R${passagem:.1f}')
+print(f'\n Para sua viagem de {distancia}kms\n Sua passagem custa R${passagem:.2f}')
